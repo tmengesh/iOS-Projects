@@ -1,0 +1,7 @@
+{
+    "firstname" : "Janne",
+    "familyname" : "Kemppi",
+    "age" : 123,
+    "childkey" : { "childkeyToo" : "TEST" },
+    "children" : [ "Anne", "Sanna", "Sari" ]
+}
