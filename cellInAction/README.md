@@ -1,3 +1,4 @@
+## cellInAction
 cellInAction uses tableview cell as a button to transition user to detail view of a cell user clicked on. 
 
 ![screen shot 2017-10-26 at 14 11 02](https://user-images.githubusercontent.com/17072260/32049942-b8ace9a6-ba57-11e7-8e00-08cf648b33d6.png)
