@@ -1,3 +1,4 @@
+## JSONTest
 JSONTest is single view application designed to parse JSON and display its contents on console output window
 
 It also features the following code that parse JSON from given URL
