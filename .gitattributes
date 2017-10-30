@@ -15,4 +15,5 @@
 *.PDF	 diff=astextplain
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
-*.rb linguist-language=Swift
+$ cat .gitattributes
+*.rb linguist-language=Java
